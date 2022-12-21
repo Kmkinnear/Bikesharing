@@ -22,5 +22,9 @@ The line chart shown above shows us the typical checkout times for the users. We
 
 We took our checkout time line chart a step further and broke it out by "gender". We see similar results where the majority of rides are less than 20 minutes and trips after 40 minutes being almost nonexistent. This chart also shows us that the majority of bike rental are by males.
 
+![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/110848660/209016666-edbf882d-0581-4636-8987-65c047c56909.png)
+
+The next chart that we created was a heatmap that showed us the number of trips by weekday and then broken down by each hour. We can see in the chart that the busiest days for bike rental usage are Monday-Friday. We can also see that the busiest times for usage are between 6:00-9:00 and 17:00-18:00. We can assume here that not only are tourists using the bike sharing program but commuters are too. On the weekends we can see that bike usage is pretty constant between 9:00-19:00 without as many peak usage hours as during the week
+
 ## Summary
 
