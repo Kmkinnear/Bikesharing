@@ -57,5 +57,5 @@ Despite the number of visualizations that we completed in this challenge, there 
  
  - The other analysis that I would like to see done is to drill down on the popular areas to see where the most popular drop off locations are. Since most of our riders appear to be commuters, it would be interesting to see if these users drop them off at gyms or office buildings that may have access to changing rooms and showers. We would suspect that most users are changing and showering after biking to work so it would be interesting to see what and where those facilities are. This make also explain the discrepancy in the rider's gender if females don't have access to changing facilities or showers. Not being able to change or shower after biking to work is going to discourage them from riding a bicycle to work.
 
-### Bike Sharing Story
-[Bike-Sharing| Tableau Public](https://public.tableau.com/app/profile/kory.kinnear/viz/UserTripsbyGenderbyWeekday_16715032990680/Story1?publish=yes)
+## Bike Sharing Story
+[Bike-Sharing | Tableau Public](https://public.tableau.com/app/profile/kory.kinnear/viz/UserTripsbyGenderbyWeekday_16715032990680/Story1?publish=yes)
