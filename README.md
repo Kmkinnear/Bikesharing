@@ -6,30 +6,43 @@ In this project, we did an analysis on a dataset to use in our bike-sharing prop
 
 ## Results
 
+### August Peak Hours
 ![August Peak Hours](https://user-images.githubusercontent.com/110848660/209014341-20aab0d5-be60-442e-b87d-a9c047c99412.png)
 
 The bar chart above shows the peak usage hours for the bike sharing program. We can see that the busiest time for bike usage is around 17:00-18:00. We can also see that the lowest usage hours are from all hours before 5:00.
 
+
+### Top Starting Locations
 ![Top Starting Locations](https://user-images.githubusercontent.com/110848660/209014794-3671309d-04a2-416a-b56e-d3dc779a091c.png)
 
 The next visual that we have is a symbol map and we've used it to show the most popular places for bike usage. We can drill down to get exact coordinates on where the most popular spots are for bike rentals. We would expect to see hot spots around popular tourist destinations since many tourists can get around easier in a larger city on a bicycle.
 
+
+### Checkout Times for Users
 ![Checkout Times for Users](https://user-images.githubusercontent.com/110848660/209015759-09c3bf92-70f8-4f8b-8a66-b52b1e2b02e0.png)
 
 The line chart shown above shows us the typical checkout times for the users. We can see that the highest percentage of riders are using the bikes for less that 20 minutes. There is also a big drop off in the number of trips lasting longer than 40 minutes. It's pretty clear that people do not mind a bicycle for a shorter trip but prefer other means of transportation for any kind of longer trip.
 
+
+### Checkout Times by Gender
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/110848660/209016205-9d6dfe05-fe36-43e0-a0ef-5aa5e729de72.png)
 
 We took our checkout time line chart a step further and broke it out by "gender". We see similar results where the majority of rides are less than 20 minutes and trips after 40 minutes being almost nonexistent. This chart also shows us that the majority of bike rental are by males.
 
+
+### Trips by Weekday for Each Hour
 ![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/110848660/209016666-edbf882d-0581-4636-8987-65c047c56909.png)
 
 The next chart that we created was a heatmap that showed us the number of trips by weekday and then broken down by each hour. We can see in the chart that the busiest days for bike rental usage are Monday-Friday. We can also see that the busiest times for usage are between 6:00-9:00 and 17:00-18:00. We can assume here that not only are tourists using the bike sharing program but commuters are too. On the weekends we can see that bike usage is pretty constant between 9:00-19:00 without as many peak usage hours as during the week.
 
+
+### Trips by Gender (Weekday per Hour)
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/110848660/209017614-6fdca5c9-6329-4288-a6d6-20a08877f12a.png)
 
 In the next chart we took our heatmap a step further and separated it out by the number of trips per gender. We see similar results here as the combined chart with the busiest times being around rush hour (8:00 and 17:00-18:00). We also get similar data with what we saw in our line chart where the biggest number of users are males.
 
+
+### User Trips by Gender by Weekday
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/110848660/209018219-da37fec0-ed77-4412-8d1d-fb39a844e6bb.png)
 
 The final chart that we created was another heatmap that showed the breakdown of users by gender, day of the week, and whether they were a customer or subscriber to the bike-sharing program. We can see from looking at the chart that the greatest concentration of users appears to be male riders who are subscribers. We can also see that their heaviest usage is during Monday-Friday which would make us think that this group is using the bike-sharing program for commuting.
