@@ -14,5 +14,13 @@ The bar chart above shows the peak usage hours for the bike sharing program. We 
 
 The next visual that we have is a symbol map and we've used it to show the most popular places for bike usage. We can drill down to get exact coordinates on where the most popular spots are for bike rentals. We would expect to see hot spots around popular tourist destinations since many tourists can get around easier in a larger city on a bicycle.
 
+![Checkout Times for Users](https://user-images.githubusercontent.com/110848660/209015759-09c3bf92-70f8-4f8b-8a66-b52b1e2b02e0.png)
+
+The line chart shown above shows us the typical checkout times for the users. We can see that the highest percentage of riders are using the bikes for less that 20 minutes. There is also a big drop off in the number of trips lasting longer than 40 minutes. It's pretty clear that people do not mind a bicycle for a shorter trip but prefer other means of transportation for any kind of longer trip.
+
+![Checkout Times by Gender](https://user-images.githubusercontent.com/110848660/209016205-9d6dfe05-fe36-43e0-a0ef-5aa5e729de72.png)
+
+We took our checkout time line chart a step further and broke it out by "gender". We see similar results where the majority of rides are less than 20 minutes and trips after 40 minutes being almost nonexistent. This chart also shows us that the majority of bike rental are by males.
+
 ## Summary
 
